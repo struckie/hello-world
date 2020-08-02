@@ -2,4 +2,4 @@
 
 Hi fellow coders
 
-I'm still learning, hope this pays out :)
+I'm still learning github, hope this pays out :)
